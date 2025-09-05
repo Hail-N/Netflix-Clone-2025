@@ -1,6 +1,5 @@
 
 import './App.css';
-import Footer from './components/Footer/Footer';
 import Home from './Pages/Home';
 
 function App() {
@@ -14,3 +13,5 @@ function App() {
 }
 
 export default App;
+
+
